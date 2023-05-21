@@ -1,0 +1,4 @@
+﻿  Task.cpp
+C:\Progi\Projects\BMTP\Buriko-Hlib-KN22\lab10\tasks\Task\Task\Task.cpp(42,34): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Progi\Projects\BMTP\Buriko-Hlib-KN22\lab10\tasks\Task\Task\Task.cpp(86,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Task.vcxproj -> C:\Progi\Projects\BMTP\Buriko-Hlib-KN22\lab10\tasks\Task\x64\Debug\Task.exe
