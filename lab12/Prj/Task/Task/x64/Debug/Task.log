@@ -1,0 +1,3 @@
+﻿  Task.cpp
+C:\Progi\Projects\BMTP\Buriko-Hlib-KN22\lab12\Prj\Task\Task\Task.cpp(20,44): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Task.vcxproj -> C:\Progi\Projects\BMTP\Buriko-Hlib-KN22\lab12\Prj\Task\x64\Debug\Task.exe
